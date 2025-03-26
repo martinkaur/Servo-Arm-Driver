@@ -1,0 +1,3 @@
+../Core/Src/adc_reading.c:15:6:get_adc_values	2
+../Core/Src/adc_reading.c:28:6:calculate_currents	1
+../Core/Src/adc_reading.c:36:6:currents_calculate_status	6

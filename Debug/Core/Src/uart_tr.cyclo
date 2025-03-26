@@ -1,0 +1,3 @@
+../Core/Src/uart_tr.c:32:6:init_uart_rx_interrupt	1
+../Core/Src/uart_tr.c:37:6:HAL_UART_RxCpltCallback	14
+../Core/Src/uart_tr.c:94:6:uart_send_status	2
